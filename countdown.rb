@@ -9,7 +9,7 @@ def countdown(number)
 return "HAPPY NEW YEAR!"
 end
 
-countdown(6)
+puts countdown(6)
 # example:
 x = 13
 while x > 0
